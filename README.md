@@ -1,6 +1,4 @@
-## Hi there, I'm 
-
-![Jenny Miriotta](https://img.shields.io/badge/-Jenny%20Miriotta-ff69b4?style=for-the-badge&logo=ghost&logoColor=white&animation=glow)
+![Jenny Miriotta](https://img.shields.io/badge/-Jenny%20Miriotta-00ffcc?style=for-the-badge&logo=github&logoColor=white)
 
 
 **ijenny77/ijenny77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
