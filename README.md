@@ -1,19 +1,6 @@
-## Hi there, I'm  
+## Hi there, I'm 
 
-![J](https://img.shields.io/badge/-J-red?style=for-the-badge)
-![Je](https://img.shields.io/badge/-Je-orange?style=for-the-badge)
-![Jen](https://img.shields.io/badge/-Jen-yellow?style=for-the-badge)
-![Jenn](https://img.shields.io/badge/-Jenn-green?style=for-the-badge)
-![Jenny](https://img.shields.io/badge/-Jenny-blue?style=for-the-badge)
-![Jenny M](https://img.shields.io/badge/-Jenny%20M-purple?style=for-the-badge)
-![Jenny Mi](https://img.shields.io/badge/-Jenny%20Mi-pink?style=for-the-badge)
-![Jenny Mir](https://img.shields.io/badge/-Jenny%20Mir-cyan?style=for-the-badge)
-![Jenny Miri](https://img.shields.io/badge/-Jenny%20Miri-red?style=for-the-badge)
-![Jenny Miriot](https://img.shields.io/badge/-Jenny%20Miriot-orange?style=for-the-badge)
-![Jenny Miriott](https://img.shields.io/badge/-Jenny%20Miriott-yellow?style=for-the-badge)
-![Jenny Miriotta](https://img.shields.io/badge/-Jenny%20Miriotta-green?style=for-the-badge)
-
-👋
+![Jenny Miriotta](https://img.shields.io/badge/-Jenny%20Miriotta-ff69b4?style=for-the-badge&logo=ghost&logoColor=white&animation=glow)
 
 
 **ijenny77/ijenny77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
