@@ -1,5 +1,4 @@
-## Hi there,I'm Jenny Miriotta 👋
-![Hi there,I'm Jenny Miriotta 👋](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+![Jenny Miriotta](https://link-to-your-gif.gif)
 
 **ijenny77/ijenny77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
