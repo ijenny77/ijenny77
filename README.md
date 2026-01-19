@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SmartBus Project
 - 🌱 I’m currently learning Python and Tailwind CSS
-- 📫 How to reach me: ...
+- 📫 How to reach me: ishimwejennymiriotta@gmail.com 💬
 
 ## 🧰 My Toolbox
 
