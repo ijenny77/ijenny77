@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SmartBus Project
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and C++.
 - 🔭 Working on small projects to improve my frontend skills
 - 🎯 Goal: Become a confident full-stack developer
 - 📫 How to reach me: ishimwejennymiriotta@gmail.com 💬
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 
 
