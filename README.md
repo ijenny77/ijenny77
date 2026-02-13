@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 ## 🧰 My Toolbox
 
 ### Core Languages & Tools
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-6E5494?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF6F61?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-1E90FF?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF4500?style=flat&logo=c%2B%2B&logoColor=white)
+
 
 
 
