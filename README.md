@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 
 ### Tools & Environments
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
