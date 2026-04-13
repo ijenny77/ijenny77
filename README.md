@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 ### Tools & Environments
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+
+<h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> <br/> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" /> </p> edit this so that I can paste it there without changing anything my username is ijenny77
