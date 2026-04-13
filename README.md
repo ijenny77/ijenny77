@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijenny77&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=10"
+/>
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijenny77&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
