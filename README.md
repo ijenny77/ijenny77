@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 
 <p align="center">
  
-  <img src="https://streak-stats.demolab.com?user=ijenny77&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ijenny77&theme=tokyonight&cache_seconds=0" />
 </p>
