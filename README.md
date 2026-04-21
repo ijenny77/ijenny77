@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SmartBus Project.
 - 🌱 I’m currently learning Python,Figma,C++.
 - 🔭 Working on small projects to improve my frontend skills.
+- 🎨 Dedicated to crafting intuitive, user-centered interfaces through thoughtful UI/UX design.
 - 🎯 Goal: Become a confident full-stack developer.
 - 📫 How to reach me: ishimwejennymiriotta@gmail.com 💬.
 
