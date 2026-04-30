@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SmartBus Project.
-- 🌱 I’m currently learning Python,Figma,C++.
+- 🌱 I’m currently learning Figma,Blender.
 - 🔭 Working on small projects to improve my frontend skills.
 - 🎨 Dedicated to crafting intuitive, user-centered interfaces through thoughtful UI/UX design.
 - 🎯 Goal: Become a confident full-stack developer.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## 🧰 My Toolbox
 
 ### Core Languages & Tools
-![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-6E5494?style=flat&logo=php&logoColor=white)
