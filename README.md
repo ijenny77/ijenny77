@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-6E5494?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF6F61?style=flat&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-1E90FF?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF4500?style=flat&logo=c%2B%2B&logoColor=white)
 
 
 
