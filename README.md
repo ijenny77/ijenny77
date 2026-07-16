@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 ![Blender](https://img.shields.io/badge/Blender-FF6F00?style=flat&logo=blender&logoColor=white)
 
 
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+
 ### Tools & Environments
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
