@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ### Frameworks & Libraries
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 
 ### Creative & 3D
