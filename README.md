@@ -68,9 +68,3 @@ Here are some ideas to get you started:
  
   <img src="https://streak-stats.demolab.com?user=ijenny77&theme=tokyonight&cache_seconds=0" />
 </p>
-
-<h2 align="center">💻Most used Languages </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijenny77&layout=compact&theme=tokyonight" />
-</p>
