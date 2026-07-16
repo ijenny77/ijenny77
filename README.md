@@ -69,27 +69,8 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=ijenny77&theme=tokyonight&cache_seconds=0" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijenny77&show_icons=true&theme=tokyonight" />
-</p>
+<h2 align="center">💻Most used Languages </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijenny77&layout=compact&theme=tokyonight" />
-</p>
-
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ijenny77&theme=tokyonight&cache_seconds=0" />
-</p>
-
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijenny77&theme=tokyo-night" />
 </p>
