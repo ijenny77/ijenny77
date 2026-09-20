@@ -2,69 +2,65 @@
  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋;My+name+is+Jenny+Miriotta;Aspiring+Web+Developer;Welcome+to+my+GitHub+profile!" />
 </h1>
 
-
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SmartBus Project.
-- 🌱 I’m currently learning Figma,Blender,Unity.
-- 🔭 Working on small projects to improve my frontend skills and backend skills.
-- 🎨 Dedicated to crafting intuitive, user-centered interfaces through thoughtful UI/UX design.
-- 🎯 Goal: Become a confident full-stack developer.
-- 📫 How to reach me: ishimwejennymiriotta@gmail.com 💬.
+* 🔭 I’m currently working on SmartBus Project.
+* 🌱 I’m currently learning Java, Figma, Blender, and Unity.
+* 🔭 Working on small projects to improve my frontend and backend skills.
+* 🎨 Dedicated to crafting intuitive, user-centered interfaces through thoughtful UI/UX design.
+* 🎯 Goal: Become a confident full-stack developer.
+* 📫 How to reach me: [ishimwejennymiriotta@gmail.com](mailto:ishimwejennymiriotta@gmail.com) 💬.
 
 ## 🧰 My Toolbox
 
 ### Core Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6E5494?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF6F61?style=flat&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-1E90FF?style=flat&logo=c&logoColor=white)
 
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=flat\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat\&logo=node.js\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-6E5494?style=flat\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF6F61?style=flat\&logo=mysql\&logoColor=white)
+![C](https://img.shields.io/badge/C-1E90FF?style=flat\&logo=c\&logoColor=white)
 
 ### Frontend & Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat\&logo=tailwindcss\&logoColor=white)
 
 ### Frameworks & Libraries
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
 
 ### Creative & 3D
-![Blender](https://img.shields.io/badge/Blender-FF6F00?style=flat&logo=blender&logoColor=white)
 
+![Blender](https://img.shields.io/badge/Blender-FF6F00?style=flat\&logo=blender\&logoColor=white)
 
 ### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat\&logo=unity\&logoColor=white)
 
 ### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
 ### Tools & Environments
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
- 
   <img src="https://streak-stats.demolab.com?user=ijenny77&theme=tokyonight&cache_seconds=0" />
 </p>
