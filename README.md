@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋;My+name+is+Jenny+Miriotta;Aspiring+Web+Developer;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋;My+name+is+Jenny+Miriotta;Aspiring+Web+Developer;Welcome+to+my+GitHub+profile!" />
 </h1>
 
 Here are some ideas to get you started:
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=flat\&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat\&logo=node.js\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-6E5494?style=flat\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF6F61?style=flat\&logo=mysql\&logoColor=white)
