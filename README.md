@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I’m currently working on SmartBus Project.
 * 🌱 I’m currently learning Java, Figma, Blender, and Unity.
 * 🔭 Working on small projects to improve my frontend and backend skills.
 * 🎨 Dedicated to crafting intuitive, user-centered interfaces through thoughtful UI/UX design.
